@@ -35,8 +35,8 @@ This project is a high-performance trade simulator implemented in C++ that conne
 
 ```bash
 # Step 1: Clone repository
-git clone https://github.com/your-username/trade-simulator.git
-cd goquant-assig
+git clone https://github.com/u0m5e0s9h/trade-simulator.git
+cd trade-simulator
 
 # Step 2: Prepare build
 cmake -S . -B build -G "Visual Studio 17 2022"
